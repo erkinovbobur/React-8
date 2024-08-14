@@ -1,6 +1,6 @@
 import React from 'react'
 import car11 from "../../assets/car11.png"
-import like from "../../assets/Like.png"
+
 import tuplam from "../../assets/tuplam.png"
 import car12 from "../../assets/car12.png"
 import car3 from "../../assets/car3.png"

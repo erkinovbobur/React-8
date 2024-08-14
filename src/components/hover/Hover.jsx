@@ -12,11 +12,11 @@ import { Radio } from 'antd';
    <div className=' flex justify-center  '  >
    
    
-<div className='w-[640px] h-[100%]    rounded-xl m-0 gap-[30px] flex flex-col   ml-5'>
+<div className='w-[640px] h-[100%]    rounded-xl m-0 gap-[30px] flex flex-col  ml-5 '>
 <h1 className='text-2xl z-30 text-white font-semibold text-[32px] w-[272px] '>The Best Platform <br/> for Car Rental</h1>
 <p className='z-30 text-white w-[272px]'> Ease of doing a car rental safely and <br/>  reliably. Of course at a low price.</p>
 <div className='flex m-0 z-30'><Button   type="primary">Rental Car</Button></div>
-<img className='absolute  w-[600px] ' src={car1} alt="" />
+<img className='absolute  w-[600px]   ' src={car1} alt="" />
      
 
    </div>
