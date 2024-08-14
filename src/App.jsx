@@ -4,6 +4,7 @@ import './App.css'
 import RouteController from './routes/Index'
 import Hover from "./components/hover/Hover"
 import Cards from './components/cards/Cards'
+import Footer from './components/footer/Footer'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
       <Nav/>
       <Hover/>
       <Cards/>
+      <Footer/>
       <RouteController/>
     </>
   )

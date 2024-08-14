@@ -4,11 +4,11 @@ import { Button,  } from 'antd';
 import car1 from '../../assets/car1.png'
 import car2 from '../../assets/car2.png'
 import { Radio } from 'antd';
-import round from '../../assets/round.svg'
+
 
  const Hover = () => {
   return (
-   <div className='  w-[1440px] bg-[#C3D4E966] h-[500px]  '>
+   <div className='  w-[1440px]  h-[500px]  '>
    <div className=' flex justify-center  '  >
    
    
